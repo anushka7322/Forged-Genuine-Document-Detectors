@@ -22,13 +22,21 @@ The dataset directory structure is as follows:
 
 
 Receipts/
+
 ├── genuine/
+
 │ ├── image1.jpg
+
 │ ├── image2.jpg
+
 │ └── ...
+
 └── forged/
+
 ├── image1.jpg
+
 ├── image2.jpg
+
 └── ...
 
 
